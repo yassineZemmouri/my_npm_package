@@ -1,0 +1,19 @@
+{
+  "name": "casablanca",
+  "version": "1.0.0",
+  "description": "Casablanca is a specialized npm package delivering curated static information about the captivating city of Casablanca. Developers can easily access a wealth of data, including details on landmarks, attractions, area, population, and more. With its user-friendly interface and meticulously organized content, Casablanca simplifies the integration of essential city insights into applications, providing users with valuable resources for exploring the vibrant cultural landscape of Casablanca.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassineZemmouri/my_npm_package.git"
+  },
+  "author": "yassine zemmouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassineZemmouri/my_npm_package/issues"
+  },
+  "homepage": "https://github.com/yassineZemmouri/my_npm_package#readme"
+}
